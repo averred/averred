@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey, I'm Talha Khan. 👋🏽
+
+### Some Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=averred&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=averred&layout=compact&theme=dark)
 
 <!--
 **averred/averred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
